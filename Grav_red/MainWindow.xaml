@@ -7,6 +7,22 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <ComboBox HorizontalAlignment="Center" Margin="0,89,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>
+                <Button x:Name="color" Content="Изменить цвет"/>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <Slider x:Name="brush_size" Maximum="100" Width="100"/>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <RadioButton x:Name="create" Content="Рисовать"/>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <RadioButton x:Name="reduct" Content="Редактировать"/>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <RadioButton x:Name="delet" Content="Удалить"/>
+            </ComboBoxItem>
+        </ComboBox>
     </Grid>
 </Window>

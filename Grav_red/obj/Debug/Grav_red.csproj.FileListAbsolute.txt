@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Grav_red\Grav_red\bin\Debug\Grav_red.exe.config
+C:\Users\admin\source\repos\Grav_red\Grav_red\bin\Debug\Grav_red.exe
+C:\Users\admin\source\repos\Grav_red\Grav_red\bin\Debug\Grav_red.pdb
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\Grav_red.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\Grav_red_MarkupCompile.cache
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\Grav_red_MarkupCompile.lref
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\Grav_red.g.resources
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\Grav_red.Properties.Resources.resources
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\Grav_red.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\Grav_red.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\Grav_red.exe
+C:\Users\admin\source\repos\Grav_red\Grav_red\obj\Debug\Grav_red.pdb
